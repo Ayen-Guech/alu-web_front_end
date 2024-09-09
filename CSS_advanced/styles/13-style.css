@@ -111,10 +111,9 @@ color: var(--section-title-color);
 
 }
 
-
- a:link{
-    
-    
+a:link {
+    color: var(--text-color);
+    text-decoration: none;
   }
 
   a:visited {
