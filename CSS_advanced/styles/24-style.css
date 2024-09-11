@@ -423,12 +423,12 @@ margin: 0;
 
 
 }
-.card-services .card-title a{
+.card-services a{
 
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
-
+    text-decoration: none;
 }
 
 .card-services a:hover{
