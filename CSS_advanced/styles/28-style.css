@@ -376,7 +376,7 @@ html {
 }
 
 .header-logo{
-    position: var(--header-logo-position);
+    display: var(--header-logo-position);
 
 }
 
