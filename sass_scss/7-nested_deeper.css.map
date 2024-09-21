@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,CAAC;EACD,SAAS,EAAE,IAAI;CAOhB;;AARH,AAEI,IAFA,CAEA,EAAE,CAAC;EACD,SAAS,EAAE,IAAI;CAIhB;;AAPL,AAIM,IAJF,CAEA,EAAE,AAEC,QAAQ,CAAC;EACR,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "7-nested_deeper.scss"
+    ],
+    "names": [],
+    "file": "7-nested_deeper.css"
+}
