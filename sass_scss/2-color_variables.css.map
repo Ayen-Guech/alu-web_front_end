@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,CAAA;EACJ,KAAK,EAJO,OAAO;EAKnB,gBAAgB,EAJJ,OAAO;CAMlB;;AAED,AAAA,CAAC,CAAA;EAEG,KAAK,EAXG,OAAO;CAalB;;AACD,AAAA,EAAE,CAAA;EAEE,gBAAgB,EAfR,OAAO;CAgBlB",
+    "sources": [
+        "2-color_variables.scss"
+    ],
+    "names": [],
+    "file": "2-color_variables.css"
+}
