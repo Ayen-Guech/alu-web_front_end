@@ -1,10 +1,8 @@
-$color_dark:#3D3D3D;
-$color_red:#ff0000;
-
 body {
-  color:$color_dark;
-
-   .red {
-    color:$color_red;
-  }
+  color: #3D3D3D;
 }
+
+body > .red {
+  color: #FF0000;
+}
+/*# sourceMappingURL=5-nested_child.css.map */

@@ -1,0 +1,8 @@
+$body2_color:#3D3D3D; 
+$element:#FF0000;
+
+
+body {
+    color: $body2_color; }
+    body > .red {
+      color:$element; }
