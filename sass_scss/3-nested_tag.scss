@@ -1,22 +1,12 @@
+$body_margin: 0px;
+$body_padding: 0px;
+$p_margin: 10px;
 
+body {
+  margin: $body_margin;
+  padding: $body_padding;
 
-body{
-
-
-margin: 0;
-padding: 0;
-
+  p {
+    margin: $p_margin;
+  }
 }
-
-body p{
-
-    margin: 10px;
-    
-}
-
-
-
-
-  
-
-
