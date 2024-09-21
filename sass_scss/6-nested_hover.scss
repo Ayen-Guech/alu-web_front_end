@@ -1,12 +1,6 @@
-$color_button:#FF0000;
-$hover_button:#00FF00;
-
-
-button{
-
-    color: $color_button;
-    button:hover{
-
-        color: $hover_button;
+button {
+    color: #ff0000;
+    &:hover {
+      color: #00ff00;
     }
-}
+  }
