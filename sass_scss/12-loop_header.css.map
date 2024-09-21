@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACI,AAAA,EAAE,CAAK;EACL,SAAS,EAAC,GAAC;CACZ;;AAFD,AAAA,EAAE,CAAK;EACL,SAAS,EAAC,GAAC;CACZ;;AAFD,AAAA,EAAE,CAAK;EACL,SAAS,EAAC,GAAC;CACZ;;AAFD,AAAA,EAAE,CAAK;EACL,SAAS,EAAC,GAAC;CACZ;;AAFD,AAAA,EAAE,CAAK;EACL,SAAS,EAAC,GAAC;CACZ",
+    "sources": [
+        "12-loop_header.scss"
+    ],
+    "names": [],
+    "file": "12-loop_header.css"
+}
