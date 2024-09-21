@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,CAAC;EACH,KAAK,EAJM,OAAO;CASnB;;AAND,AAGE,IAHE,CAGF,IAAI,CAAC;EACH,KAAK,EANG,OAAO;CAOhB",
+    "sources": [
+        "4-nested_class.scss"
+    ],
+    "names": [],
+    "file": "4-nested_class.css"
+}
