@@ -1,8 +1,10 @@
-button {
-  color: #FF0000;
-}
+$color_dark:#3D3D3D;
+$color_red:#ff0000;
 
-button button:hover {
-  color: #00FF00;
+body {
+  color:$color_dark;
+
+   .red {
+    color:$color_red;
+  }
 }
-/*# sourceMappingURL=5-nested_child.css.map */
