@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIE,AAJF,KAIO,EAIL,QAAQ,EAKR,QAAQ,CAbE;EACR,SAAS,EAAE,IAAI;CAChB;;AAMD,AAAA,QAAQ,CAAC;EAEP,KAAK,EAAE,OAAO;CACf;;AAED,AAAA,QAAQ,CAAC;EAEP,KAAK,EAAE,OAAO;CACf",
+    "sources": [
+        "9-extend_list.scss"
+    ],
+    "names": [],
+    "file": "9-extend_list.css"
+}
